@@ -1,2 +1,6 @@
 # pyXAI-FCM
 Codes for ....
+
+Collaborators:
+
+1. Nikolas Papandrianos...

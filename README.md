@@ -11,5 +11,5 @@ Contributors in code review:
 2. Ioannis D. Apostolopoulos, Postdoctoral Researcher, University of Thessaly, Dept. of Energy Systems
 3. Nikolas Papandrianos, Associate Professor, University of Thessaly, Dept. of Energy Systems
 
-Supervision:
+Supervisor:
 Nikolas Papandrianos, Associate Professor, University of Thessaly, Dept. of Energy Systems
